@@ -7,6 +7,10 @@
   padding: 10px;
 }
 
+body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
 .block01 {
   background-color: red;
   height: 300px;
