@@ -9,13 +9,21 @@
 
 .block01 {
   background-color: blue;
-  display: inline-block;
+  display: inline;
   height: 100px;
   width: 200px;
   margin: 20px;
 }
 
 .block02 {
+  background-color: red;
+  display: inline-block;
+  height: 100px;
+  width: 200px;
+  margin: 20px;
+}
+
+.block03 {
   background-color: red;
   display: inline-block;
   height: 100px;
