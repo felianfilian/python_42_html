@@ -9,18 +9,27 @@
 
 .block01 {
   background-color: red;
-  height: 500px;
-  width: 500px;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 200;
+  left: 200;
 }
 
 .block02 {
   background-color: blue;
   height: 100px;
   width: 100px;
+  position: absolute;
+  top: 100;
+  left: 1000;
 }
 
 .block03 {
   background-color: yellow;
   height: 100px;
   width: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
