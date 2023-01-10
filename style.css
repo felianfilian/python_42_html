@@ -10,19 +10,26 @@
 .block01 {
   background-color: red;
   height: 100px;
-  width: 200px;
+  width: 100px;
+  display: inline-block;
   position: relative;
-  top: 100px;
+  left: 200px;
 }
 
 .block02 {
   background-color: blue;
   height: 100px;
-  width: 200px;
+  width: 100px;
+  display: inline-block;
+  position: relative;
+  right: 100px;
 }
 
 .block03 {
   background-color: yellow;
   height: 100px;
-  width: 200px;
+  width: 100px;
+  display: inline-block;
+  position: relative;
+  right: 100px;
 }
