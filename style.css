@@ -9,11 +9,10 @@
 
 .block01 {
   background-color: red;
-  height: 100px;
-  width: 100px;
-  position: absolute;
-  top: 200px;
-  left: 200px;
+  height: 300px;
+  width: 300px;
+  position: relative;
+  top: 100px;
 }
 
 .block02 {
@@ -21,8 +20,8 @@
   height: 100px;
   width: 100px;
   position: absolute;
-  top: 100px;
-  left: 100px;
+  top: 50px;
+  left: 50px;
 }
 
 .block03 {
