@@ -8,25 +8,21 @@
 }
 
 .block01 {
-  background-color: blue;
-  display: inline;
+  background-color: red;
   height: 100px;
   width: 200px;
-  margin: 20px;
+  position: relative;
+  top: 100px;
 }
 
 .block02 {
-  background-color: red;
-  display: inline-block;
+  background-color: blue;
   height: 100px;
   width: 200px;
-  margin: 20px;
 }
 
 .block03 {
-  background-color: red;
-  display: inline-block;
+  background-color: yellow;
   height: 100px;
   width: 200px;
-  margin: 20px;
 }
